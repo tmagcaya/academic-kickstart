@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Talha Agcayazi
+name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: North Carolina State University
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electrical Engineering and Wearable Sensing/Technology
-    institution: North Carolina State University
-    year: 2020
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
