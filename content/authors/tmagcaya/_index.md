@@ -33,7 +33,7 @@ education:
   - course: MS in Electrical Engineering
     institution: NC State University
     year: 2017
-  - course: BS in Electrical Engineering  CS Minor
+  - course: BS in Electrical Engineering + CS Minor
     institution: NC State University
     year: 2015
 
@@ -56,9 +56,9 @@ social:
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,3 +75,7 @@ I'm a PhD candidate in Electrical Engineering at NC State University. I have a m
 Previously, I interned at the [Facebook Reality Labs][1], [Naval Research Labs][2], and [Carnegie Mellon University][3]. 
 I graduated from George Mason University with a major in Electrical Engineering (minor in Computer Science). During which time I worked with Dr. Gerald Cook and Dr. Dan Lofaro in the [Lofaro Labs][4]. 
 
+[1]: https://tech.fb.com/
+[2]: https://www.nrl.navy.mil/lasr/
+[3]: https://riss.ri.cmu.edu/
+[4]: http://lofarolabs.com/
