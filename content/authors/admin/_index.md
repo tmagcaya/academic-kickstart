@@ -34,7 +34,7 @@ education:
     institution: NC State University
     year: 2017
   - course: BS in Electrical Engineering + CS Minor
-    institution: NC State University
+    institution: George Mason University
     year: 2015
 
 # Social/Academic Networking
@@ -48,17 +48,17 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=DlGxlIwAAAAJ&hl=en&oi=ao
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,8 +72,7 @@ user_groups:
 
 I'm a PhD candidate in Electrical Engineering at NC State University. I have a multidisciplinary background with projects and courses in Electrical Engienering, Material Science, Biomedical devices, Machine Learning and Robotics. My past projects fall into three main research areas: Physical sensors (pressure, shear, strain), Physiological sensors (Bio-impedance, ExG) and Flexible Materials (Textile, Silicone). For my thesis project, I am developing a textile pressure sensor to monitor the comfort and fit of prosthetic limbs. 
 
-Previously, I interned at the [Facebook Reality Labs][1], [Naval Research Labs][2], and [Carnegie Mellon University][3]. 
-I graduated from George Mason University with a major in Electrical Engineering (minor in Computer Science). During which time I worked with Dr. Gerald Cook and Dr. Dan Lofaro in the [Lofaro Labs][4]. 
+Previously, I interned at the [Facebook Reality Labs][1], [Naval Research Labs][2], and [Carnegie Mellon University][3]. During my time at George Mason University, I worked with Dr. Gerald Cook and Dr. Dan Lofaro in the [Lofaro Labs][4]. 
 
 [1]: https://tech.fb.com/
 [2]: https://www.nrl.navy.mil/lasr/
