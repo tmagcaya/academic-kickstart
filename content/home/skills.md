@@ -15,16 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "atom"
+  icon_pack = "fas"
   name = "Hardware/Software Rapid Prototyping"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "cogs"
   icon_pack = "fas"
   name = "Characterization Systems with Matlab, Python and Labview"
   description = "100%"  
+
+[[feature]]
+  icon = "user-graduate"
+  icon_pack = "fas"
+  name = "More than 16 academic papers"
+  description = "100%"
   
 [[feature]]
   icon = "camera-retro"
