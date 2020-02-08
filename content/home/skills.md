@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
-  name = "Characterization Systems with Matlab, Python and Labview"
+  name = "Autonomous Systems"
   description = "100%"  
 
 [[feature]]
@@ -31,11 +31,5 @@ subtitle = ""
   icon_pack = "fas"
   name = "More than 16 academic papers"
   description = "100%"
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
-++++
++++
