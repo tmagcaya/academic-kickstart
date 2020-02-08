@@ -17,13 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "Hardware/Software Rapid Prototyping"
   description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Characterization Systems with Matlab, Python and Labview"
   description = "100%"  
   
 [[feature]]
