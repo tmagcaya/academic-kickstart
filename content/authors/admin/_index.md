@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include physical sensing, phsiological sensing and flexible materials. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Physical Sensing
+- Physiological Sensing and Signal Processing
+- Flexible Materials
 
 education:
   courses:
@@ -48,17 +48,17 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=DlGxlIwAAAAJ&hl=en&oi=ao
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/talha-agcayazi/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=DlGxlIwAAAAJ&hl=en&oi=ao
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
