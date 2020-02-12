@@ -23,6 +23,7 @@ bio: My research interests include physical sensing, phsiological sensing and fl
 interests:
 - Physical Sensing
 - Physiological Sensing and Signal Processing
+- Robotics and Autonomous Systems
 - Flexible Materials
 
 education:
