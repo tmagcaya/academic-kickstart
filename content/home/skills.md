@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
-  name = "Autonomous Systems"
+  name = "Capacitive Sensing"
   description = "100%"  
 
 [[feature]]
-  icon = "user-graduate"
+  icon = "horse"
   icon_pack = "fas"
-  name = "More than 16 academic papers"
-  description = "100%"
+  name = "Horseback Riding"
+  description = "10%"
 
 +++
