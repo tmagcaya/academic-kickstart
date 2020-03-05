@@ -24,7 +24,7 @@ subtitle = ""
   icon = "cogs"
   icon_pack = "fas"
   name = "Capacitive Sensing"
-  description = "100%"  
+  description = "90%"  
 
 [[feature]]
   icon = "horse"
